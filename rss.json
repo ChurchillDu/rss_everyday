@@ -1,48 +1,24 @@
 {
   "rss_info": [
     {
+      "title": "不吐不快的有货君 - YouTube ",
+      "url": "https://rsshub.app/youtube/channel/UCL_6y6pug2cYoYCYvXDbgHA"
+    },
+       {
+      "title": "莉莉安的迷宫",
+      "url": " https://lillian-who.github.io/atom.xml"
+    },
+     {
+      "title": "上海滩小律师（微博）",
+      "url": "https://rsshub.app/weibo/user/1707114464"
+    },
+     {
+      "title": "JJasonbiu（b站）",
+      "url": "https://rsshub.app/bilibili/user/video/644083"
+    },
+    {
       "title": "少数派",
       "url": "https://sspai.com/feed"
-    },
-    {
-      "title": "阮一封的网络日志",
-      "url": "http://feeds.feedburner.com/ruanyifeng"
-    },
-    {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
-    },
-    {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
-    },
-    {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
-    },
-    {
-      "title": "Airing 的小屋",
-      "url": "https://me.ursb.me/feed"
-    },
-    {
-      "title": "少数派 matrix",
-      "url": "https://rsshub.app/sspai/matrix"
-    },
-    {
-      "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
-    },
-    {
-      "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
-    },
-    {
-      "title": "Product Hunt",
-      "url": "https://www.producthunt.com/feed"
-    },
-    {
-      "title": "I'm TualatriX",
-      "url": "https://imtx.me/feed/latest/"
     }
   ]
 }
